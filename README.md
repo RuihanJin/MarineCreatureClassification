@@ -22,7 +22,7 @@ The code relies on the deep learning framework of Pytorch
 
 ## Dataset
 
-Please download the dataset from [here](https://cloud.tsinghua.edu.cn/f/15dfcd0d51b6411ba3f4/?dl=1). and unzip it. You are recommand to rename the dataset directory into `marine-creature-dataset`.
+Please download the dataset from [here](https://cloud.tsinghua.edu.cn/f/15dfcd0d51b6411ba3f4/?dl=1) and unzip it. You are recommand to rename the dataset directory into `marine-creature-dataset`.
 
 ## Pre-Trained Models
 
